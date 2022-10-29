@@ -1,2 +1,2 @@
 # mssql-td
-<img src="mssql-docker.png" alt="mssql-docker">
+<img src="images/mssql-docker.png" alt="mssql-docker">
