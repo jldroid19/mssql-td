@@ -1,0 +1,5 @@
+/.terraform
+/.terraform.lock.hcl
+/AdventureWorksLT2019.bak
+/terraform.tfstate
+/terraform.tfstate.backup
